@@ -1,0 +1,110 @@
+{
+  "name": "我的指针主题",
+  "states": {
+    "normal": {
+      "file": "source/normal.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "help": {
+      "file": "source/help.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "app_starting": {
+      "file": "source/app_starting.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "busy": {
+      "file": "source/busy.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "crosshair": {
+      "file": "source/crosshair.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "text": {
+      "file": "source/text.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "handwriting": {
+      "file": "source/handwriting.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "forbidden": {
+      "file": "source/forbidden.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "resize_vertical": {
+      "file": "source/resize_vertical.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "resize_horizontal": {
+      "file": "source/resize_horizontal.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "resize_nwse": {
+      "file": "source/resize_nwse.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "resize_nesw": {
+      "file": "source/resize_nesw.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "open_hand": {
+      "file": "source/open_hand.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "up_arrow": {
+      "file": "source/up_arrow.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    },
+    "action": {
+      "file": "source/action.png",
+      "hotspot": [
+        0,
+        0
+      ]
+    }
+  }
+}

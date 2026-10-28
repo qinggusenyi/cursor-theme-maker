@@ -1,0 +1,4 @@
+interface:
+  display_name: "指针主题制作"
+  short_description: "上传角色图片，制作 Windows 或 macOS 指针主题"
+  default_prompt: "使用 $cursor-theme-maker，根据我上传的图片制作一套鼠标指针，预览并为我的平台打包。"
