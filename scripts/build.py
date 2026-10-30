@@ -124,6 +124,11 @@ def preview(path, name, records):
         draw.line((mark_x, mark_y - 8, mark_x, mark_y + 8), fill="#f35a85", width=3)
         draw.text((left + 24, top + 337), label, font=font(29, True), fill="#24213b")
         draw.text((left + 24, top + 375), state, font=font(17), fill="#89869b")
+        draw.rounded_rectangle((left + 359, top + 331, left + 431, top + 401),
+                               radius=9, fill="#f0eff6")
+        small = canvas.resize((32, 32), Image.Resampling.LANCZOS)
+        sheet.paste(small, (left + 379, top + 349), small)
+        draw.text((left + 375, top + 383), "32px", font=font(13), fill="#777389")
     sheet.save(path)
 
 
